@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Fascinate&family=Lobster&family=Manrope:wght@400;500&display=swap');
+
+.bolder{
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    font-size: 20px;
+}
+
+.items{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.bold{
+    color: red;
+    text-decoration: underline;
+    font-size: large;
+}
